@@ -5,6 +5,7 @@
 	background-size: cover;
 	background-attachment: fixed;
     color: white;
+    width: 50px;
 }
 
 .pricing-filter-wrapper {
@@ -28,6 +29,7 @@
 .pricing-title {
 	color:blue;
 	margin-bottom: 30px;
+    align-items: end;
 }
 
 
