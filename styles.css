@@ -1,6 +1,6 @@
 .nav {
 
-	background: url(./images/chima.jpg);
+	
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -26,7 +26,7 @@
 }
 
 .pricing-title {
-	color: #fff;
+	color:blue;
 	margin-bottom: 30px;
 }
 
